@@ -1,0 +1,30 @@
+com/example/edgescreen/immersive_mode/ImmersiveModeActivity.java
+ com.example.edgescreen.immersive_mode.ImmersiveModeActivity
+ com.example.edgescreen.immersive_mode.ImmersiveModeActivity$1
+com/example/edgescreen/singleplus/LongClickRemoteViewService.java
+ com.example.edgescreen.singleplus.LongClickRemoteViewService
+ com.example.edgescreen.singleplus.LongClickRemoteViewService$1
+ com.example.edgescreen.singleplus.LongClickRemoteViewService$SampleRemoveViewFactory
+com/example/edgescreen/list/DBHelper.java
+ com.example.edgescreen.list.DBHelper
+com/example/edgescreen/list/Constants.java
+ com.example.edgescreen.list.Constants
+com/example/edgescreen/list/CocktailListAdapterFactory.java
+ com.example.edgescreen.list.CocktailListAdapterFactory
+ com.example.edgescreen.list.CocktailListAdapterFactory$1
+com/example/edgescreen/list/CocktailListAdapterProvider.java
+ com.example.edgescreen.list.CocktailListAdapterProvider
+com/example/edgescreen/list/CocktailListAdapterService.java
+ com.example.edgescreen.list.CocktailListAdapterService
+com/example/edgescreen/single/CocktailSingleProvider.java
+ com.example.edgescreen.single.CocktailSingleProvider
+com/example/edgescreen/EdgeConfigure.java
+ com.example.edgescreen.EdgeConfigure
+com/example/edgescreen/BuildConfig.java
+ com.example.edgescreen.BuildConfig
+com/example/edgescreen/singleplus/LongClickCocktailProvider.java
+ com.example.edgescreen.singleplus.LongClickCocktailProvider
+com/example/edgescreen/feeds/CocktailFeedsProvider.java
+ com.example.edgescreen.feeds.CocktailFeedsProvider
+com/example/edgescreen/singleplus/CocktailSinglePlusProvider.java
+ com.example.edgescreen.singleplus.CocktailSinglePlusProvider

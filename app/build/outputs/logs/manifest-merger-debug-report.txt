@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:2:1-103:12
+INJECTED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:2:1-103:12
+INJECTED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:2:1-103:12
+INJECTED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:2:1-103:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\luisc\.gradle\caches\transforms-2\files-2.1\0b3b3a4719ee504265b601c9a4df68a1\support-v4-23.4.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:2:1-103:12
+INJECTED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:2:1-103:12
+INJECTED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:2:1-103:12
+	package
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\luisc\.gradle\caches\transforms-2\files-2.1\0b3b3a4719ee504265b601c9a4df68a1\support-v4-23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\luisc\.gradle\caches\transforms-2\files-2.1\0b3b3a4719ee504265b601c9a4df68a1\support-v4-23.4.0\AndroidManifest.xml:20:5-43
+INJECTED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml
+uses-permission#com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY
+ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:11:5-117
+	android:name
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:11:22-114
+application
+ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:13:5-101:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\luisc\.gradle\caches\transforms-2\files-2.1\0b3b3a4719ee504265b601c9a4df68a1\support-v4-23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\luisc\.gradle\caches\transforms-2\files-2.1\0b3b3a4719ee504265b601c9a4df68a1\support-v4-23.4.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:15:9-41
+	android:allowBackup
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.example.edgescreen.EdgeConfigure
+ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:label
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:18:13-42
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:20:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:21:25-66
+activity#com.example.edgescreen.immersive_mode.ImmersiveModeActivity
+ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:24:9-36:20
+	android:label
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:26:13-45
+	android:theme
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:27:13-77
+	android:name
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:25:13-87
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:28:13-31:29
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:30:27-74
+meta-data#com.samsung.android.cocktail.subwindow.enable
+ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:33:13-35:40
+	android:value
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:35:17-37
+	android:name
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:34:17-77
+receiver#com.example.edgescreen.single.CocktailSingleProvider
+ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:38:9-46:20
+	android:name
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:38:19-64
+intent-filter#action:name:com.samsung.android.cocktail.action.COCKTAIL_UPDATE
+ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:39:13-41:29
+action#com.samsung.android.cocktail.action.COCKTAIL_UPDATE
+ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:40:17-94
+	android:name
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:40:25-91
+meta-data#com.samsung.android.cocktail.provider
+ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:43:13-45:55
+	android:resource
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:45:17-52
+	android:name
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:44:17-69
+receiver#com.example.edgescreen.feeds.CocktailFeedsProvider
+ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:47:9-55:20
+	android:name
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:47:19-62
+receiver#com.example.edgescreen.list.CocktailListAdapterProvider
+ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:56:9-64:20
+	android:name
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:56:19-67
+receiver#com.example.edgescreen.singleplus.CocktailSinglePlusProvider
+ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:65:9-73:20
+	android:name
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:65:19-72
+intent-filter#action:name:com.samsung.android.cocktail.v2.action.COCKTAIL_UPDATE
+ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:66:13-68:29
+action#com.samsung.android.cocktail.v2.action.COCKTAIL_UPDATE
+ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:67:17-97
+	android:name
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:67:25-94
+service#com.example.edgescreen.list.CocktailListAdapterService
+ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:75:9-77:72
+	android:permission
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:77:13-69
+	android:name
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:76:13-60
+receiver#com.example.edgescreen.singleplus.LongClickCocktailProvider
+ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:79:9-90:20
+	android:name
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:79:19-71
+intent-filter#action:name:com.example.cocktailslooksample.action.ACTION_PULL_TO_REFRESH+action:name:com.example.cocktailslooksample.action.ACTION_REMOTE_CLICK+action:name:com.example.cocktailslooksample.action.ACTION_REMOTE_LONGCLICK+action:name:com.samsung.android.cocktail.v2.action.COCKTAIL_UPDATE
+ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:80:13-85:29
+action#com.example.cocktailslooksample.action.ACTION_REMOTE_LONGCLICK
+ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:82:17-105
+	android:name
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:82:25-102
+action#com.example.cocktailslooksample.action.ACTION_REMOTE_CLICK
+ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:83:17-100
+	android:name
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:83:25-98
+action#com.example.cocktailslooksample.action.ACTION_PULL_TO_REFRESH
+ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:84:17-103
+	android:name
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:84:25-101
+service#com.example.edgescreen.singleplus.LongClickRemoteViewService
+ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:92:9-96:15
+	android:exported
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:94:13-37
+	android:permission
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:95:13-69
+	android:name
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:93:13-66
+meta-data#com.samsung.android.cocktail.mode
+ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:98:9-100:48
+	android:value
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:100:13-45
+	android:name
+		ADDED from C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\src\main\AndroidManifest.xml:99:13-61

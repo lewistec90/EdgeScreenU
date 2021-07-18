@@ -1,0 +1,4 @@
+#Sun Jul 18 17:06:34 COT 2021
+base.0=C\:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

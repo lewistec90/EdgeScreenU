@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cocktail-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    label="@string/edge_single_list_name" 
+    description="@string/description_edge_single_list">
+</cocktail-provider>

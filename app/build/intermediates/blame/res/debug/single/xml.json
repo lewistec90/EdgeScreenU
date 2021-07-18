@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\xml\\edge_single_plus.xml",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\xml\\edge_single_plus.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\xml\\edge_single.xml",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\xml\\edge_single.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\xml\\edge_single_plus_list.xml",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\xml\\edge_single_plus_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\xml\\edge_feeds.xml",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\xml\\edge_feeds.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\xml\\edge_single_list.xml",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\xml\\edge_single_list.xml"
+    }
+]

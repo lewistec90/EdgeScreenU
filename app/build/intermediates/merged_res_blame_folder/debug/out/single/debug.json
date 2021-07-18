@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_note_pen1.png.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\drawable-xxhdpi\\ic_note_pen1.png"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_note_bg.png.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\drawable-xxhdpi\\note_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_apps_edge.png.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\drawable-xxhdpi\\apps_edge.png"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_sub_view.xml.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\layout-land\\sub_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bg_preview.png.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\drawable-xxhdpi\\bg_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_note_pen3.png.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\drawable-xxhdpi\\ic_note_pen3.png"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_apps_edge_bg.png.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\drawable-xxhdpi\\apps_edge_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout_widget_layout.xml.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\layout\\widget_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon05.png.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\drawable-xxhdpi\\icon05.png"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\xml_edge_single_plus_list.xml.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\xml\\edge_single_plus_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_widget_layout.xml.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\layout-land\\widget_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout_widget_item.xml.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\layout\\widget_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_feeds_panel_layout.xml.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\layout-land\\feeds_panel_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_widget_item.xml.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\layout-land\\widget_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_immersive_mode.xml.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\layout\\activity_immersive_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon04.png.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\drawable-xxhdpi\\icon04.png"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon02.png.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\drawable-xxhdpi\\icon02.png"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bg_snotepanel.png.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\drawable-xxhdpi\\bg_snotepanel.png"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout_single_plus_long_click_state_layout.xml.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\layout\\single_plus_long_click_state_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout_sub_view.xml.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\layout\\sub_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_note_pen6.png.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\drawable-xxhdpi\\ic_note_pen6.png"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_note_pen2.png.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\drawable-xxhdpi\\ic_note_pen2.png"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon01.png.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\drawable-xxhdpi\\icon01.png"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout_feeds_panel_layout.xml.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\layout\\feeds_panel_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\xml_edge_single.xml.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\xml\\edge_single.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout_sample_panel.xml.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\layout\\sample_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_sample_panel.xml.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\layout-land\\sample_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout_sample_edge_single_plus.xml.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\layout\\sample_edge_single_plus.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_note_pen4.png.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\drawable-xxhdpi\\ic_note_pen4.png"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout_single_plus_remote_list_item.xml.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\layout\\single_plus_remote_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout_single_plus_remote_list_view.xml.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\layout\\single_plus_remote_list_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_note_pen5.png.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\drawable-xxhdpi\\ic_note_pen5.png"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon03.png.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\drawable-xxhdpi\\icon03.png"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\xml_edge_feeds.xml.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\xml\\edge_feeds.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon06.png.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\drawable-xxhdpi\\icon06.png"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_longclick_sample_preview.png.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\drawable-hdpi\\longclick_sample_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\xml_edge_single_list.xml.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\xml\\edge_single_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\xml_edge_single_plus.xml.flat",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\xml\\edge_single_plus.xml"
+    }
+]

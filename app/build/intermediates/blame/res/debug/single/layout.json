@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sub_view.xml",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\layout\\sub_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_edge_single_plus.xml",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\layout\\sample_edge_single_plus.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widget_layout.xml",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\layout\\widget_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\single_plus_long_click_state_layout.xml",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\layout\\single_plus_long_click_state_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\single_plus_remote_list_view.xml",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\layout\\single_plus_remote_list_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_panel.xml",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\layout\\sample_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feeds_panel_layout.xml",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\layout\\feeds_panel_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widget_item.xml",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\layout\\widget_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\single_plus_remote_list_item.xml",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\layout\\single_plus_remote_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_immersive_mode.xml",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\layout\\activity_immersive_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\luisc\\IdeaProjects\\SlookSDK_v1.4.0\\Samples\\Look\\EdgeScreen\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

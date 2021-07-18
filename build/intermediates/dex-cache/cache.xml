@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\libs\sdk-v1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e2ce3786b6e9519934c4a54aaaaf39525bf4486c">
+        <dex dex="C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\build\intermediates\pre-dexed\debug\sdk-v1.0.0_1393aaff876971aff9d2c2bfba7978ee4cd67c0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\luisc\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\23.4.0\ffbe55fdb2bb456b1485831706a9eac3300bb6b8\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_e09a243bed1241f5dc47cc52a3d569ec2ca6e8ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_f952843b6f2340a6dada4f005b203694aaf50e40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\libs\slook_v1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2e8d09ca1eb4dc60d9c71f238f58670475a66edf">
+        <dex dex="C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\build\intermediates\pre-dexed\debug\slook_v1.4.0_3152477f510f8e7fcb1ab362e10dcd5ddd149779.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\luisc\IdeaProjects\SlookSDK_v1.4.0\Samples\Look\EdgeScreen\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_273ce1a382e4130eee1e67644d0930226fe5f7b3.jar" />
+    </item>
+
+</items>
